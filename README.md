@@ -1,5 +1,4 @@
 # Operating-Systems
-Laboratory exercises for the "Operating Systems" course in NTUA
 
 ## Lab 1
 Create a **process tree** with Father at root and two children processes C1, C2. C1 has two leaves C3, C4 and C2 has another leaf, C5. Each process prints 10 times its pid and the pid of its parent id with 1 second interval.
